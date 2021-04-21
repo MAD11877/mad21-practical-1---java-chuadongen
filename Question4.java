@@ -18,7 +18,7 @@ public class Question4
      */
      
     Scanner in = new Scanner(System.in);
-    System.out.println("Enter base length: ");
+    //System.out.println("Enter base length: ");
     int base = in.nextInt();
     in.close();
     for (int i = 0; i < base; i++) {
