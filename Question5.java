@@ -50,7 +50,7 @@ public class Question5
         maxKey= k;
       }
     }
-    System.out.println(nocount);
+    //System.out.println(nocount);
     System.out.println(maxKey);
     in.close();
     
