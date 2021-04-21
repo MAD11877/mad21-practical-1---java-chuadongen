@@ -28,7 +28,7 @@ public class Question5
      */
      
     Scanner in = new Scanner(System.in);
-    System.out.println("Enter no. count: ");
+    //System.out.println("Enter no. count: ");
     int count = in.nextInt();
 
     HashMap<Integer,Integer> nocount = new HashMap<Integer,Integer>();
